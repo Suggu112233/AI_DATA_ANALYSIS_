@@ -1,0 +1,19 @@
+{
+    "steps": [
+        "Applied Min-Max scaling to all features."
+    ],
+    "params": {
+        "min": [
+            22.0,
+            48000.0
+        ],
+        "scale": [
+            0.01020408163265306,
+            1.5337423312883435e-06
+        ],
+        "feature_names": [
+            "Age",
+            "Salary"
+        ]
+    }
+}
