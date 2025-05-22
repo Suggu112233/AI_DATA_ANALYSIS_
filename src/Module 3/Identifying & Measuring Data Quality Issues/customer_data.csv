@@ -1,0 +1,51 @@
+CustomerID,Age,Income,Gender,City
+1,25,50000,Male,New York
+2,30,60000,Female,Los Angeles
+3,35,75000,Male,Chicago
+4,28,55000,Female,Houston
+5,40,80000,Male,Phoenix
+6,22,45000,Female,Philadelphia
+7,50,90000,Male,San Antonio
+8,45,85000,Female,San Diego
+9,32,62000,Male,Dallas
+10,29,58000,Female,San Jose
+11,26,51000,Male,New York
+12,31,61000,Female,Los Angeles
+13,36,76000,Male,Chicago
+14,29,56000,Female,Houston
+15,41,81000,Male,Phoenix
+16,23,46000,Female,Philadelphia
+17,51,91000,Male,San Antonio
+18,46,86000,Female,San Diego
+19,33,63000,Male,Dallas
+20,30,59000,Female,San Jose
+21,27,52000,Male,New York
+22,32,62000,Female,Los Angeles
+23,37,77000,Male,Chicago
+24,30,57000,Female,Houston
+25,42,82000,Male,Phoenix
+26,24,47000,Female,Philadelphia
+27,52,92000,Male,San Antonio
+28,47,87000,Female,San Diego
+29,34,64000,Male,Dallas
+30,31,60000,Female,San Jose
+31,28,53000,Male,New York
+32,33,63000,Female,Los Angeles
+33,38,78000,Male,Chicago
+34,31,58000,Female,Houston
+35,43,83000,Male,Phoenix
+36,25,48000,Female,Philadelphia
+37,53,93000,Male,San Antonio
+38,48,88000,Female,San Diego
+39,35,65000,Male,Dallas
+40,32,61000,Female,San Jose
+41,29,54000,Male,New York
+42,34,64000,Female,Los Angeles
+43,39,79000,Male,Chicago
+44,32,59000,Female,Houston
+45,44,84000,Male,Phoenix
+46,26,49000,Female,Philadelphia
+47,54,94000,Male,San Antonio
+48,49,89000,Female,San Diego
+49,36,66000,Male,Dallas
+50,33,62000,Female,San Jose
