@@ -1,0 +1,6 @@
+column_name,expected_dtype,allow_null,min_value,max_value
+id,int,False,,
+name,str,False,,
+age,int,True,0,120
+salary,float,True,0,
+department,str,True,,
