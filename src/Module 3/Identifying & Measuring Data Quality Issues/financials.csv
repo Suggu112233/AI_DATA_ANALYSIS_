@@ -1,0 +1,5 @@
+TransactionID,Amount,Currency,Accessible
+201,1000.0,USD,True
+202,500.12345,usd,True
+203,,USD,False
+204,1200.0,EUR,True

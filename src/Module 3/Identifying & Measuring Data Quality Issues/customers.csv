@@ -1,0 +1,6 @@
+CustomerID,Email,Phone,Country
+1,a@example.com,1234567890,US
+2,b@example.com,1234567890,US
+2,b@example.com,1234567890,US
+4,,0987654321,US
+5,e@example.com,,USA
